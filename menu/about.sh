@@ -4,7 +4,7 @@ echo "Checking VPS"
 aureb=$(cat /home/re_otm)
 clear
 echo " "
-echo "===============-[ LAKMANA27]-=============="
+echo "===============-[ TEGAR STORE ]-=============="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
