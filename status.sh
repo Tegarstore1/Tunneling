@@ -1,8 +1,8 @@
 #!/bin/bash
 # Welcome Information
 # Edition : Stable Edition V1.0
-# Author  : LAKSMANA27
-# (C) Copyright 2021-2022 By LAKSMANA27
+# Author  : EncryptedHaven
+# (C) Copyright 2021-2022 By EncryptedHaven
 # =========================================
 
 # // Exporting Language to UTF-8
