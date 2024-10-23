@@ -132,8 +132,8 @@ clear;clear;clear
 
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "                ${YELLOW}(${NC}${GREEN} STATUS SERVICE INFORMATION ${NC}${YELLOW})${NC}"
-echo -e "                  CREATOR : ${GREEN} ILHAM ${NC}${YELLOW}${NC} ${GREEN}STORE ${NC}${YELLOW}${NC}"
-echo -e "       © Copyright By Ilham-Store ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e "                  CREATOR : ${GREEN} EncryptedHaven ${NC}${YELLOW}${NC} ${GREEN}STORE ${NC}${YELLOW}${NC}"
+echo -e "       © Copyright By EncryptedHaven ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 echo -e "${RED_BG}                     Sytem Information                    ${NC}"
