@@ -11,7 +11,7 @@ PASS = ''
 BUFLEN = 4096 * 4
 TIMEOUT = 60
 DEFAULT_HOST = '127.0.0.1:109'
-RESPONSE = 'HTTP/1.1 101 <b><font color="green">𝗦𝗘𝗠𝗣𝗔𝗞_𝗚𝗜𝗠𝗔𝗡𝗚</font></b>\r\nUpgrade: websocket\r\nConnection: Upgrade\r\nSec-WebSocket-Accept: foo\r\n\r\n'
+RESPONSE = 'HTTP/1.1 101 <b><font color="green">𝗦𝗘𝗠𝗣𝗔𝗞_𝗟𝗘𝗚𝗘𝗡𝗗</font></b>\r\nUpgrade: websocket\r\nConnection: Upgrade\r\nSec-WebSocket-Accept: foo\r\n\r\n'
 #RESPONSE = 'HTTP/1.1 101 <b><font color="green">Switching Protocols</font></b>\r\n\r\nContent-Length: 104857600000\r\n\r\n'
 
 class Server(threading.Thread):
