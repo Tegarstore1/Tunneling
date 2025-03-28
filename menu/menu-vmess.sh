@@ -81,7 +81,7 @@ exit 0
 fi
 MYIP=$(wget -qO- ipinfo.io/ip);
 clear
-echo -e "   ${red_background}VMESS MENU${NC}"
+echo -e "   ${red_background}VMESS MENU PREMIUM${NC}"
 echo -e ""
 echo -e "        ${white}[•1]${NC} ${cyan}Create v2ray${NC}"
 echo -e "        ${white}[•2]${NC} ${cyan}Create trial${NC}"
