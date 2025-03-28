@@ -72,7 +72,7 @@ exit 0
 fi
 MYIP=$(wget -qO- ipinfo.io/ip);
 clear
-echo -e "   ${red_background}SSH MENU${NC}"
+echo -e "   ${red_background}SSH MENU PREMIUM${NC}"
 echo -e ""
 echo -e "        ${white}[•1]${NC} ${cyann}Create ssh${NC}"
 echo -e "        ${white}[•2]${NC} ${cyann}Create trial${NC}"
